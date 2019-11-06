@@ -1,2 +1,0 @@
-# ReactRandomUserApiAccess
-Created with CodeSandbox
